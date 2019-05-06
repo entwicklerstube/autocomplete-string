@@ -5,6 +5,8 @@
 ## Example
 
 ```js
+import autocomplete from 'autocomplete-string';
+
 autocomplete('foo', ['hello', 'foobar']);
 /*
 Response:
