@@ -1,0 +1,24 @@
+{
+  "name": "autocomplete-string",
+  "version": "1.0.0",
+  "description": "Pure javascript module which returns an object with autocomplete informations by a given string an suggestions array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entwicklerstube/autocomplete-string.git"
+  },
+  "keywords": [
+    "autocomplete",
+    "string",
+    "vanilla"
+  ],
+  "author": "Michael J. Zoidl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/entwicklerstube/autocomplete-string/issues"
+  },
+  "homepage": "https://github.com/entwicklerstube/autocomplete-string#readme"
+}
