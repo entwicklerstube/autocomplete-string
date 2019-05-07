@@ -1,4 +1,4 @@
-# autocomplete-string [![Build Status](https://travis-ci.com/entwicklerstube/autocomplete-string.svg?branch=master)](https://travis-ci.com/entwicklerstube/autocomplete-string)
+# autocomplete-string [![Build Status](https://travis-ci.com/entwicklerstube/autocomplete-string.svg?token=WzYtTyKpGbb1XT3QFzM1&branch=master)](https://travis-ci.com/entwicklerstube/autocomplete-string)
 
 > Pass an array of options and an input string and get a suggestion and a completion string
 
