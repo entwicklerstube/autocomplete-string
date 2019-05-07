@@ -2,9 +2,11 @@
   "name": "autocomplete-string",
   "version": "1.0.0",
   "description": "Pure javascript module which returns an object with autocomplete informations by a given string an suggestions array",
-  "main": "index.js",
+  "main": "lib/index",
+  "typings": "lib/index",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -p .",
+    "test": "mocha -r ts-node/register test.ts --watch-extensions ts"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/entwicklerstube/autocomplete-string/issues"
   },
-  "homepage": "https://github.com/entwicklerstube/autocomplete-string#readme"
+  "homepage": "https://github.com/entwicklerstube/autocomplete-string#readme",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  }
 }
