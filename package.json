@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure javascript module which returns an object with autocomplete informations by a given string an suggestions array",
   "main": "lib/index",
   "typings": "lib/index",
